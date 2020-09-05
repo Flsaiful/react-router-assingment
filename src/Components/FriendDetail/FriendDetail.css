@@ -1,0 +1,17 @@
+.friendDetail-containar{
+    color: brown;
+    margin:20px;
+    padding:20px;
+    background-color:rgb(235, 227, 160);
+    text-align:center;
+    border:2px solid black;
+    border-radius:20px;
+    box-shadow: 1px 10px 10px gray;
+}
+
+.friendDetail-containar h4{
+    color:black;
+}
+.detail-style{
+    color:black;
+}

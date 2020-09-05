@@ -1,0 +1,16 @@
+.header-style {
+    margin:20px;
+    padding:20px;
+    background-color:lightblue;
+    text-align:center;
+    border:2px solid black;
+    border-radius:20px;
+    box-shadow: 1px 10px 10px gray;
+}
+#btn{
+    text-decoration: none;
+}
+
+.span-style{
+    color: rgb(236, 22, 22);
+}
